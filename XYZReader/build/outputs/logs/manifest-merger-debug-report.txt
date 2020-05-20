@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/33e0649f383d614f566b2822b9a2c6e0/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/5c75bd7951d359a85775620c0170e49e/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/24c8333af3f2d43ff2b1c71d3d52d739/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -36,41 +36,43 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/adevakat/.grad
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/54ec9a60a0f20829d9c5323f1ce0908c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/0571339fd4cb74441b19561f6766bb98/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/0f91f258f9d0abaa0e56c019df47bd85/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
-INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:1-55:12
 	package
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:3:5-36
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:5:5-30
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:2:5-51
 	xmlns:android
 		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:4:5-28
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:6:5-67
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:7:5-81
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:7:22-78
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:8:22-78
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:8:5-75
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:9:5-75
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:8:22-72
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:9:22-72
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:9:5-79
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:10:5-79
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:10:22-76
 application
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:15:5-53:19
 MERGED from [androidx.core:core:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/45ca2b27b5a8d2aecb4ee89b6457658f/core-1.0.0/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/45ca2b27b5a8d2aecb4ee89b6457658f/core-1.0.0/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/f6ee4caf47f75b1f61a904ebd80d0032/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
@@ -78,69 +80,75 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/adev
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/45ca2b27b5a8d2aecb4ee89b6457658f/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:19:9-41
 	android:icon
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:20:9-40
+uses-library#org.apache.http.legacy
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:22:9-88
+	android:required
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:22:61-85
+	android:name
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:22:23-60
 activity#com.example.xyzreader.ui.ArticleListActivity
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:24:9-31:20
 	android:label
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:26:13-45
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:18:13-51
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:25:13-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:20:13-23:29
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:27:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:21:17-69
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:22:17-77
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:22:27-74
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:29:27-74
 activity#com.example.xyzreader.ui.ArticleDetailActivity
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:26:9-37:20
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:33:9-44:20
 	android:parentActivityName
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:28:13-65
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:35:13-65
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:27:13-53
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:34:13-53
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:36:13-40:29
 action#android.intent.action.VIEW
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:37:25-66
 category#android.intent.category.DEFAULT
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:31:17-76
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:31:27-73
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:38:27-73
 data
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:32:17-100
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:39:17-100
 	android:mimeType
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:32:23-97
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:39:23-97
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:34:13-36:59
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:41:13-43:59
 	android:value
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:36:17-56
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:43:17-56
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:35:17-63
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:42:17-63
 service#com.example.xyzreader.data.UpdaterService
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:39:9-40:40
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:46:9-47:40
 	android:exported
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:40:13-37
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:39:18-53
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:46:18-53
 provider#com.example.xyzreader.data.ItemsProvider
-ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:42:9-44:40
+ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:49:9-51:40
 	android:authorities
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:43:13-56
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:50:13-56
 	android:exported
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:44:13-37
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:42:19-53
+		ADDED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:49:19-53
 uses-sdk
 INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml

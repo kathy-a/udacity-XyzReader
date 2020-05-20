@@ -1,4 +1,4 @@
-#Thu May 07 22:13:45 PDT 2020
+#Tue May 19 22:25:08 PDT 2020
 base.0=/Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/build/intermediates/dex/debug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
