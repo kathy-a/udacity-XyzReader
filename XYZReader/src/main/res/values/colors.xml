@@ -24,17 +24,21 @@
     <color name="ltgray">#ffe0e0e0</color>
 
 
-    <color name="colorPrimary">#03A9F4</color>
-    <color name="colorPrimaryDark">#0288D1</color>
-    <color name="colorLight">#4FC3F7</color>
+    <color name="colorPrimary">#1578CE</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorLight">#42A5F5</color>
+    <color name="colorLightest">#B9DCF9</color>
+
     <color name="colorAccent">#F44F03</color>
 
 
-    <color name="colorBackground">#FEEAE6</color>
+    <color name="colorTextPrimary">#32537C</color>
+    <color name="colorTextDark">#1E395C</color>
+
+    <color name="colorGray">#618199</color>
 
 
-<!--    <color name="colorHeaderText">#A1887F</color>
-    <color name="colorText">#795548</color>
-    <color name="colorTitle">#442C2E</color>-->
+
+
 
 </resources>

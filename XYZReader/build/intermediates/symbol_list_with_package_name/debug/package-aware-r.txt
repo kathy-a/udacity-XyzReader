@@ -353,10 +353,13 @@ color cardview_light_background
 color cardview_shadow_end_color
 color cardview_shadow_start_color
 color colorAccent
-color colorBackground
+color colorGray
 color colorLight
+color colorLightest
 color colorPrimary
 color colorPrimaryDark
+color colorTextDark
+color colorTextPrimary
 color dim_foreground_disabled_material_dark
 color dim_foreground_disabled_material_light
 color dim_foreground_material_dark
