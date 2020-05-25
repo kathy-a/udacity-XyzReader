@@ -40,21 +40,18 @@
     </com.google.android.material.appbar.AppBarLayout>
 
 
-<!--    <androidx.core.widget.NestedScrollView
+    <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
-        >-->
+        >
 
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
-            android:layout_marginBottom="?attr/actionBarSize"
-
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-
-            android:paddingTop="116dp"
+            android:background="@color/colorGray"
             android:paddingLeft="@dimen/list_side_margin"
             android:paddingRight="@dimen/list_side_margin"
             android:paddingBottom="28dp" />
@@ -64,9 +61,7 @@
 
 
 
-<!--
     </androidx.core.widget.NestedScrollView>
--->
 
 
 
@@ -89,22 +84,24 @@
     android:background="@color/colorGray"
     android:orientation="vertical">
 
-    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+&lt;!&ndash;    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipe_refresh_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent">&ndash;&gt;
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:clipToPadding="false"
-            android:scrollbarStyle="outsideOverlay"
-            android:paddingTop="116dp"
             android:paddingLeft="@dimen/list_side_margin"
+            android:paddingTop="116dp"
             android:paddingRight="@dimen/list_side_margin"
-            android:paddingBottom="28dp" />
+            android:paddingBottom="28dp"
+            android:scrollbarStyle="outsideOverlay" />
+&lt;!&ndash;
     </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+&ndash;&gt;
 
     <FrameLayout
         android:id="@+id/toolbar_container"
@@ -131,4 +128,5 @@
         </androidx.appcompat.widget.Toolbar>
     </FrameLayout>
 
-</FrameLayout>-->
+</FrameLayout>
+-->
