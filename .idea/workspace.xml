@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d81efe6d-3a0a-4d4d-944a-afedf7979674" name="Default Changelist" comment="" />
+    <list default="true" id="d81efe6d-3a0a-4d4d-944a-afedf7979674" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/XYZReader.iml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/XYZReader.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleListActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$Adapter$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$Adapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$Adapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity$ViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleListActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/list_item_article.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +61,22 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bbuKNJcmr6jxxPtPlC9Omefrig" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_28_-_OS_9" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-12T04:16:08.921Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-05-25T21:55:39.886Z" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/XYZReader/src/main/res/drawable-v21" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,5 +162,45 @@
       <updated>1588913049339</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
+          <line>120</line>
+          <properties class="com.example.xyzreader.ui.ArticleListActivity" method="onLoadFinished" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
