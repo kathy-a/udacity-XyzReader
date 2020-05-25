@@ -28,7 +28,7 @@
 17        android:allowBackup="true"
 17-->/Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:17:9-35
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.0.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/45ca2b27b5a8d2aecb4ee89b6457658f/core-1.0.0/AndroidManifest.xml:22:18-86
+18-->[androidx.core:core:1.1.0] /Users/adevakat/.gradle/caches/transforms-2/files-2.1/1cd7eff88f5e86d0249af2958bf465f0/core-1.1.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
 20-->/Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/AndroidManifest.xml:18:9-43
