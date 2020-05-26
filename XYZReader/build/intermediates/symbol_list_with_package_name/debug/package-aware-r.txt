@@ -1424,7 +1424,6 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 id action_text
-id action_up
 id actions
 id activity_chooser_view_content
 id add
@@ -1658,7 +1657,6 @@ id unchecked
 id uniform
 id unlabeled
 id up
-id up_container
 id useLogo
 id view_offset_helper
 id visible
