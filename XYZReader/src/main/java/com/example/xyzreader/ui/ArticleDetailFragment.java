@@ -124,27 +124,29 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });*/
 
-        mScrollView = (ObservableScrollView) mRootView.findViewById(R.id.scrollview);
+/*        mScrollView = (ObservableScrollView) mRootView.findViewById(R.id.scrollview);
         mScrollView.setCallbacks(new ObservableScrollView.Callbacks() {
             @Override
             public void onScrollChanged() {
                 mScrollY = mScrollView.getScrollY();
-/*
+*//*
                 getActivityCast().onUpButtonFloorChanged(mItemId, ArticleDetailFragment.this);
-*/
+*//*
                 mPhotoContainerView.setTranslationY((int) (mScrollY - mScrollY / PARALLAX_FACTOR));
-/*
+*//*
                 updateStatusBar();
-*/
+*//*
             }
-        });
+        });*/
 
-        mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
+        mPhotoView = mRootView.findViewById(R.id.photo);
+/*
         mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
+*/
 
         mStatusBarColorDrawable = new ColorDrawable(0);
 
-        mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
+/*        mRootView.findViewById(R.id.share_fab).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(getActivity())
@@ -152,7 +154,7 @@ public class ArticleDetailFragment extends Fragment implements
                         .setText("Some sample text")
                         .getIntent(), getString(R.string.action_share)));
             }
-        });
+        });*/
 
         bindViews();
 /*
@@ -207,8 +209,8 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
-        TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
-        bylineView.setMovementMethod(new LinkMovementMethod());
+/*        TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
+        bylineView.setMovementMethod(new LinkMovementMethod());*/
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
 
 
@@ -218,9 +220,11 @@ public class ArticleDetailFragment extends Fragment implements
             mRootView.setAlpha(0);
             mRootView.setVisibility(View.VISIBLE);
             mRootView.animate().alpha(1);
+/*
             titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
+*/
             Date publishedDate = parsePublishedDate();
-            if (!publishedDate.before(START_OF_EPOCH.getTime())) {
+/*            if (!publishedDate.before(START_OF_EPOCH.getTime())) {
                 bylineView.setText(Html.fromHtml(
                         DateUtils.getRelativeTimeSpanString(
                                 publishedDate.getTime(),
@@ -237,7 +241,7 @@ public class ArticleDetailFragment extends Fragment implements
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)
                                 + "</font>"));
 
-            }
+            }*/
             // TODO: Remove shorten text : .substring(0, 3000)
             bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY).substring(0, 3000).replaceAll("(\r\n|\n)", "<br />")));
             ImageLoaderHelper.getInstance(getActivity()).getImageLoader()
@@ -249,8 +253,8 @@ public class ArticleDetailFragment extends Fragment implements
                                 Palette p = Palette.generate(bitmap, 12);
                                 mMutedColor = p.getDarkMutedColor(0xFF333333);
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
-                                mRootView.findViewById(R.id.meta_bar)
-                                        .setBackgroundColor(mMutedColor);
+/*                                mRootView.findViewById(R.id.meta_bar)
+                                        .setBackgroundColor(mMutedColor);*/
 /*
                                 updateStatusBar();
 */
@@ -264,8 +268,12 @@ public class ArticleDetailFragment extends Fragment implements
                     });
         } else {
             mRootView.setVisibility(View.GONE);
+/*
             titleView.setText("N/A");
+*/
+/*
             bylineView.setText("N/A" );
+*/
             bodyView.setText("N/A");
         }
     }
@@ -300,7 +308,7 @@ public class ArticleDetailFragment extends Fragment implements
         bindViews();
     }
 
-    public int getUpButtonFloor() {
+/*    public int getUpButtonFloor() {
         if (mPhotoContainerView == null || mPhotoView.getHeight() == 0) {
             return Integer.MAX_VALUE;
         }
@@ -309,5 +317,5 @@ public class ArticleDetailFragment extends Fragment implements
         return mIsCard
                 ? (int) mPhotoContainerView.getTranslationY() + mPhotoView.getHeight() - mScrollY
                 : mPhotoView.getHeight() - mScrollY;
-    }
+    }*/
 }

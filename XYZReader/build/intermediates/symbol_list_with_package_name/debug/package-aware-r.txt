@@ -1432,7 +1432,6 @@ id all
 id always
 id appBarLayout
 id article_body
-id article_byline
 id article_subtitle
 id article_title
 id async
@@ -1473,7 +1472,6 @@ id design_menu_item_text
 id design_navigation_view
 id dialog_button
 id disableHome
-id draw_insets_frame_layout
 id dropdown_menu
 id edit_query
 id end
@@ -1515,7 +1513,6 @@ id list_item
 id masked
 id media_actions
 id message
-id meta_bar
 id middle
 id mini
 id month_grid
@@ -1563,7 +1560,6 @@ id parent_matrix
 id password_toggle
 id peekHeight
 id photo
-id photo_container
 id pin
 id progress_circular
 id progress_horizontal
@@ -1583,7 +1579,6 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
-id scrollview
 id search_badge
 id search_bar
 id search_button
@@ -1596,7 +1591,6 @@ id search_src_text
 id search_voice_btn
 id select_dialog_listview
 id selected
-id share_fab
 id shortcut
 id showCustom
 id showHome
