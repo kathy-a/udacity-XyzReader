@@ -4,6 +4,7 @@ import android.app.Fragment;
 import android.app.LoaderManager;
 import android.content.Intent;
 import android.content.Loader;
+import android.content.res.ColorStateList;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.Color;
@@ -33,6 +34,7 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.ImageLoader;
 import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
+import com.google.android.material.appbar.CollapsingToolbarLayout;
 
 /**
  * A fragment representing a single Article detail screen. This fragment is
@@ -60,6 +62,9 @@ public class ArticleDetailFragment extends Fragment implements
     private int mScrollY;
     private boolean mIsCard = false;
     private int mStatusBarFullOpacityBottom;
+    private CollapsingToolbarLayout collapsingToolbarLayout;
+
+
 
     private SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH:mm:ss.sss");
     // Use default locale format
@@ -140,6 +145,7 @@ public class ArticleDetailFragment extends Fragment implements
         });*/
 
         mPhotoView = mRootView.findViewById(R.id.photo);
+        collapsingToolbarLayout = mRootView.findViewById(R.id.collapse_toolbar_article);
 /*
         mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
 */
@@ -220,7 +226,10 @@ public class ArticleDetailFragment extends Fragment implements
             mRootView.setAlpha(0);
             mRootView.setVisibility(View.VISIBLE);
             mRootView.animate().alpha(1);
-/*
+
+            collapsingToolbarLayout.setTitle(mCursor.getString(ArticleLoader.Query.TITLE));
+            collapsingToolbarLayout.setExpandedTitleTextColor(ColorStateList.valueOf(Color.WHITE));
+            /*
             titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
 */
             Date publishedDate = parsePublishedDate();
@@ -259,6 +268,7 @@ public class ArticleDetailFragment extends Fragment implements
                                 updateStatusBar();
 */
                             }
+
                         }
 
                         @Override
