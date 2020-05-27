@@ -215,8 +215,8 @@ public class ArticleDetailFragment extends Fragment implements
         }
 
         TextView titleView = (TextView) mRootView.findViewById(R.id.article_title);
-/*        TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
-        bylineView.setMovementMethod(new LinkMovementMethod());*/
+        TextView bylineView = (TextView) mRootView.findViewById(R.id.article_byline);
+        bylineView.setMovementMethod(new LinkMovementMethod());
         TextView bodyView = (TextView) mRootView.findViewById(R.id.article_body);
 
 
@@ -233,7 +233,7 @@ public class ArticleDetailFragment extends Fragment implements
             titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
 */
             Date publishedDate = parsePublishedDate();
-/*            if (!publishedDate.before(START_OF_EPOCH.getTime())) {
+            if (!publishedDate.before(START_OF_EPOCH.getTime())) {
                 bylineView.setText(Html.fromHtml(
                         DateUtils.getRelativeTimeSpanString(
                                 publishedDate.getTime(),
@@ -250,7 +250,7 @@ public class ArticleDetailFragment extends Fragment implements
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)
                                 + "</font>"));
 
-            }*/
+            }
             // TODO: Remove shorten text : .substring(0, 3000)
             bodyView.setText(Html.fromHtml(mCursor.getString(ArticleLoader.Query.BODY).substring(0, 3000).replaceAll("(\r\n|\n)", "<br />")));
             ImageLoaderHelper.getInstance(getActivity()).getImageLoader()

@@ -1434,6 +1434,7 @@ id all
 id always
 id appBarLayout
 id article_body
+id article_byline
 id article_subtitle
 id article_title
 id async
@@ -1516,6 +1517,7 @@ id list_item
 id masked
 id media_actions
 id message
+id meta_bar
 id middle
 id mini
 id month_grid
