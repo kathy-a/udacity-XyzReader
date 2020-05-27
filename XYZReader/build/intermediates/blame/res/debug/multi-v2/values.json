@@ -67,9 +67,11 @@
                 {
                     "source": "/Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "31,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "1140,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "45,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "1181,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "112,113,114,115,116,117,118,119,165,189,208,209,210",
@@ -112,11 +114,9 @@
                 {
                     "source": "/Users/adevakat/Documents/Kathy_Files/PERS/KATHY/WORKSPACE/udacity_files/udacity_projects/udacity-project-XyzReader/XYZReader/src/main/res/values/dimens.xml",
                     "from": {
-                        "startLines": "11,10,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "4,4,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "432,381,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "51,50,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "479,427,-1,-1,-1,-1,-1,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "292,294,353,361,364,365,366,562",
