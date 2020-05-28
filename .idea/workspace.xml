@@ -14,16 +14,60 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values-v21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/out/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/dex/debug/out/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+FdNnLL85DQJ3xEbtsVY+NeUMu0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+_4G1c875qCskqgW4C4cFshtz9Q=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+_4G1c875qCskqgW4C4cFshtz9Q=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+_hCsvcdxJ4aWXzxU95HVpDFY0Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/02u5fvNy256t+YfbRudf9UsVYPs=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/02u5fvNy256t+YfbRudf9UsVYPs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/98Gkik4Rpu_x6xMmzjhCJVN2sWg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/EFfV5dXpcFQeyv4EgmHCI_pji5I=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gr+oFvPqfDiLFvXii+tgjKDW3F0=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Gr+oFvPqfDiLFvXii+tgjKDW3F0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JJMq0908dsF6WrN4spvckM3HdGY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M7D1G5mwITybCL1cusd+_47GmUk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/SkPYDqQ8QS1K1f2UGBfUcDnabU4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Y6ks9ReRDgkHra8LM+A_rDPJzDo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ysrmtqa7hvXCPJuEjnaWOZ6WosU=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ysrmtqa7hvXCPJuEjnaWOZ6WosU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/__kNePQ_KoPtxOeeKbuj5eNqscU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/e14wUXmrfAi_JtirBd7YHqHWrdI=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/e14wUXmrfAi_JtirBd7YHqHWrdI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ec+fATPkiCvoBHKSYQ+_jH0lDv0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+FdNnLL85DQJ3xEbtsVY+NeUMu0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+_4G1c875qCskqgW4C4cFshtz9Q=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+_4G1c875qCskqgW4C4cFshtz9Q=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+_hCsvcdxJ4aWXzxU95HVpDFY0Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/02u5fvNy256t+YfbRudf9UsVYPs=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/02u5fvNy256t+YfbRudf9UsVYPs=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/98Gkik4Rpu_x6xMmzjhCJVN2sWg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/EFfV5dXpcFQeyv4EgmHCI_pji5I=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Gr+oFvPqfDiLFvXii+tgjKDW3F0=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Gr+oFvPqfDiLFvXii+tgjKDW3F0=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JJMq0908dsF6WrN4spvckM3HdGY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/M7D1G5mwITybCL1cusd+_47GmUk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/SkPYDqQ8QS1K1f2UGBfUcDnabU4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Y6ks9ReRDgkHra8LM+A_rDPJzDo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Ysrmtqa7hvXCPJuEjnaWOZ6WosU=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Ysrmtqa7hvXCPJuEjnaWOZ6WosU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/__kNePQ_KoPtxOeeKbuj5eNqscU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/e14wUXmrfAi_JtirBd7YHqHWrdI=" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/e14wUXmrfAi_JtirBd7YHqHWrdI=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/ec+fATPkiCvoBHKSYQ+_jH0lDv0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/javac/debug/classes/com/example/xyzreader/ui/ArticleDetailFragment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/project_dex_archive/debug/out/com/example/xyzreader/ui/ArticleDetailFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/build/outputs/apk/debug/XYZReader-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XYZReader/src/main/res/layout/activity_article_list.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +101,7 @@
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
@@ -167,17 +212,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
-          <line>71</line>
+          <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
-          <line>123</line>
+          <line>109</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
-          <line>122</line>
+          <line>108</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -197,7 +242,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java</url>
-          <line>120</line>
+          <line>106</line>
           <properties class="com.example.xyzreader.ui.ArticleListActivity" method="onLoadFinished" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>

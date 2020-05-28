@@ -37,7 +37,7 @@
         <activity
             android:name="com.example.xyzreader.ui.ArticleDetailActivity"
             android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
-            <intent-filter>
+            <intent-filter android:scheme="http" >
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.DEFAULT" />
