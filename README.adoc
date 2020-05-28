@@ -6,6 +6,7 @@ XYZ Reader is a mock RSS feed reader featuring banner photos and headlines.
 
 ## Implementation details:
 Analyzed the user feedback in the UI Review node, and implement changes that improves the UI and make it conform to Material Design.
+
 - Used CoordinatorLayout with collapsing toolbar layout which collapses image when user scrolls through the screen
 - Added consistent color theme across the application
 - Included Floating Action button for sharing content
