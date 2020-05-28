@@ -949,7 +949,9 @@ dimen abc_text_size_subtitle_material_toolbar
 dimen abc_text_size_title_material
 dimen abc_text_size_title_material_toolbar
 dimen action_bar_size
+dimen appTitle_image_size
 dimen appcompat_dialog_background_inset
+dimen article_image_size
 dimen cardview_compat_inset_shadow
 dimen cardview_default_elevation
 dimen cardview_default_radius
@@ -1424,7 +1426,6 @@ id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
 id action_text
-id action_up
 id actions
 id activity_chooser_view_content
 id add
@@ -1456,6 +1457,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id collapse_toolbar_article
 id confirm_button
 id container
 id content
@@ -1474,7 +1476,6 @@ id design_menu_item_text
 id design_navigation_view
 id dialog_button
 id disableHome
-id draw_insets_frame_layout
 id dropdown_menu
 id edit_query
 id end
@@ -1564,7 +1565,6 @@ id parent_matrix
 id password_toggle
 id peekHeight
 id photo
-id photo_container
 id pin
 id progress_circular
 id progress_horizontal
@@ -1584,7 +1584,6 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
-id scrollview
 id search_badge
 id search_bar
 id search_button
@@ -1658,7 +1657,6 @@ id unchecked
 id uniform
 id unlabeled
 id up
-id up_container
 id useLogo
 id view_offset_helper
 id visible
